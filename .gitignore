@@ -1,9 +1,11 @@
 speech-based/build/
 speech-based/api.key
 speech-based/SpeechGPT.spec
-text-based/TextGPT.spec
 speech-based/test.mp3
 speech-based/test.py
+speech-based/dist/
+text-based/dist/
+text-based/TextGPT.spec
 text-based/build/
 text-based/api.key
 text-based/data.json
